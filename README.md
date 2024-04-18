@@ -6,6 +6,6 @@ sudo apt install -y git && git clone https://github.com/alison-nunes/instalador-
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
 ```bash
-cd ./installwhatiket && sudo ./install_instancia
+cd ./instalador-wa && sudo ./install_instancia
 ```
 
